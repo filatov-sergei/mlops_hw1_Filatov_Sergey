@@ -1,0 +1,10 @@
+artifact_location: file:///C:/mlops/mlops_hw1_Filatov_Sergey/mlruns/0/models/m-9d22e8088a3144df93cbbfc59002c4fb/artifacts
+creation_timestamp: 1764781609082
+experiment_id: '0'
+last_updated_timestamp: 1764781612170
+model_id: m-9d22e8088a3144df93cbbfc59002c4fb
+model_type: null
+name: model
+source_run_id: 6368779c3ca24079ba62b4c249651cc2
+status: 2
+status_message: null

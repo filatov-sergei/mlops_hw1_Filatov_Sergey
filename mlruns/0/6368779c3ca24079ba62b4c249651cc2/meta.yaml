@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mlops/mlops_hw1_Filatov_Sergey/mlruns/0/6368779c3ca24079ba62b4c249651cc2/artifacts
+end_time: 1764781612185
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6368779c3ca24079ba62b4c249651cc2
+run_name: merciful-wren-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764781608981
+status: 3
+tags: []
+user_id: Сергей

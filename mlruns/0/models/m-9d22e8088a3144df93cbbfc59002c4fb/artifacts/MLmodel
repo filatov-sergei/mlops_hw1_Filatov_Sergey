@@ -1,0 +1,22 @@
+artifact_path: file:///C:/mlops/mlops_hw1_Filatov_Sergey/mlruns/0/models/m-9d22e8088a3144df93cbbfc59002c4fb/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-9d22e8088a3144df93cbbfc59002c4fb
+model_size_bytes: 177358
+model_uuid: m-9d22e8088a3144df93cbbfc59002c4fb
+prompts: null
+run_id: 6368779c3ca24079ba62b4c249651cc2
+utc_time_created: '2025-12-03 17:06:49.093646'
