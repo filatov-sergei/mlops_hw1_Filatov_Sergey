@@ -3,3 +3,6 @@
 ['remote "myremote"']
     url = gdrive://1I7R8du7mepUsqU07m1EfEOjo9MrakpOh
     gdrive_acknowledge_abuse = true
+    gdrive_client_id = 21744338142-3lgkk6ef7t2m4m6uoc7gbju3off90uot.apps.googleusercontent.com
+    gdrive_client_secret = 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
+    gdrive_user_credentials_file = C:/client_secret_21744338142-3lgkk6ef7t2m4m6uoc7gbju3off90uot.apps.googleusercontent.com.json
